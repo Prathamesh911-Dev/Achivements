@@ -1,2 +1,2 @@
 # Achivements
-Achivements Completed
+Achivements
